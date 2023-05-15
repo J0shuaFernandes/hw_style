@@ -1,5 +1,5 @@
 # hw_style
-LeNet5 inspired model for handwriting style classification [paper](https://drive.google.com/file/d/16HeDXA8ezecHZqSSOLZeMQGWxy9lnkVL/view)
+LeNet5 inspired model for handwriting style classification [(paper)](https://drive.google.com/file/d/16HeDXA8ezecHZqSSOLZeMQGWxy9lnkVL/view)
 
 ![straight_curved](straight_curved.JPG)
 
